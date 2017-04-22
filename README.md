@@ -16,6 +16,7 @@ vue填坑之旅：进入vue开发世界，迎接各类坑。
 2. iviewui pc端 (https://www.iviewui.com/)
 3. element pc端 (http://element.eleme.io/#/zh-CN)
 4. vuematerial (https://vuematerial.github.io/#/)
+5. vum (https://github.com/vum-team/vum)
 
 ### 组件库
 #### 表单验证类
