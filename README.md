@@ -9,6 +9,7 @@ vue填坑之旅：进入vue开发世界，迎接各类坑。
 ### 开发环境
 1. vue-cli (https://github.com/vuejs/vue-cli)
 2. webpack (https://github.com/diamont1001/webpack-summary)
+3. vue-loader (http://vue-loader.vuejs.org/en/index.html)
 
 ### 框架库
 1. vux2.0 移动端 (https://vux.li/#/zh-CN/README)
