@@ -38,3 +38,6 @@ vue填坑之旅：进入vue开发世界，迎接各类坑。
 
 #### 文件上传
 1. vue-file-upload (https://github.com/marchFantasy/vue-file-upload)
+
+#### swiper
+1. vue-awesome-swiper (https://surmon-china.github.io/vue-awesome-swiper/)
